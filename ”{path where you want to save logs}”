@@ -1,0 +1,763 @@
+[8091] Log opened at 2023-08-28 17:36:18.471270
+[8091] [Step Debug] INFO: Connecting to configured address/port: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001.
+[8091] [Step Debug] WARN: Creating socket for '”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001', getaddrinfo: Invalid argument.
+[8091] [Step Debug] ERR: Could not connect to debugging client. Tried: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8229] Log opened at 2023-08-28 17:36:29.741558
+[8229] [Step Debug] INFO: Connecting to configured address/port: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001.
+[8229] [Step Debug] WARN: Creating socket for '”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001', getaddrinfo: Invalid argument.
+[8229] [Step Debug] ERR: Could not connect to debugging client. Tried: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8230] Log opened at 2023-08-28 17:36:29.751990
+[8230] [Step Debug] INFO: Connecting to configured address/port: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001.
+[8230] [Step Debug] WARN: Creating socket for '”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001', getaddrinfo: Invalid argument.
+[8230] [Step Debug] ERR: Could not connect to debugging client. Tried: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8230] [Step Debug] INFO: Connecting to configured address/port: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001.
+[8230] [Step Debug] WARN: Creating socket for '”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001', getaddrinfo: Invalid argument.
+[8230] [Step Debug] ERR: Could not connect to debugging client. Tried: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8230] [Step Debug] INFO: Connecting to configured address/port: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001.
+[8230] [Step Debug] WARN: Creating socket for '”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001', getaddrinfo: Invalid argument.
+[8230] [Step Debug] ERR: Could not connect to debugging client. Tried: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8230] Log closed at 2023-08-28 17:36:30.126394
+
+[8229] [Step Debug] INFO: Connecting to configured address/port: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001.
+[8229] [Step Debug] WARN: Creating socket for '”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001', getaddrinfo: Invalid argument.
+[8229] [Step Debug] ERR: Could not connect to debugging client. Tried: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8229] [Step Debug] INFO: Connecting to configured address/port: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001.
+[8229] [Step Debug] WARN: Creating socket for '”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001', getaddrinfo: Invalid argument.
+[8229] [Step Debug] ERR: Could not connect to debugging client. Tried: ”127.0.0.1
+
+
+
+
+; An XML-RPC faultCode
+;xmlrpc_error_number = 0
+
+; When PHP displays or logs an error, it has the capability of formatting the
+; error message as HTML for easier reading. This directive controls whether
+; the error message is formatted as HTML or not.
+; Note: This directive is hardcoded to Off for the CLI SAPI
+; https://php.net/html-errors
+;html_errors = On
+
+; If html_errors is set to On *and* docref_root is not empty, then PHP
+; produces clickable error messages that direct to a page describing the error
+; or function causing the error in detail.
+; You can download a copy of the PHP manual from https://php.net/docs
+; and change docref_root to the base URL of your local copy including the
+; leading '/'. You must also specify the file extension being used including
+; the dot. PHP's default behavior is to leave these settings empty, in which
+; case no links to documentation are generated.
+; Note: Never use this feature for production boxes.
+; https://php.net/docref-root
+; Examples
+;docref_root = /phpmanual/
+
+; https://php.net/docref-ext
+;docref_ext = .html
+
+; String to output before an error message. PHP's default behavior is to leave
+; this setting blank.
+; https://php.net/error-prepend-string
+; Example:
+;error_prepend_string = <span style:9001 (through xdebug.client_host/xdebug.client_port) :-(
+[8229] Log closed at 2023-08-28 17:36:30.134537
+

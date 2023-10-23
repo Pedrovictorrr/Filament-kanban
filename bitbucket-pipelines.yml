@@ -1,0 +1,35 @@
+pipelines:
+  branches:
+    master:
+      - step:
+          name: Deploy application to production
+          script:
+            - pipe: atlassian/rsync-deploy:0.4.4
+              variables:
+                USER: 'runcloud'
+                SERVER: '137.184.59.234'
+                REMOTE_PATH: '/home/runcloud/webapps/millennium'
+                LOCAL_PATH: '.'
+                SSH_PORT: '1816'
+                DELETE_FLAG: 'false'
+                EXTRA_ARGS: '--exclude=.git/*'
+      - step:
+          name: Update Composer
+          script:
+            - pipe: atlassian/ssh-run:0.4.1
+              variables:
+                SSH_USER: 'runcloud'
+                SERVER: '137.184.59.234'
+                COMMAND: 'cd /home/runcloud/webapps/millennium;        /RunCloud/Packages/php81rc/bin/php composer.phar install --dev'
+                MODE: 'command'
+                PORT: '1816'        
+      - step:
+          name: Run Migrations
+          script:
+            - pipe: atlassian/ssh-run:0.4.1
+              variables:
+                SSH_USER: 'runcloud'
+                SERVER: '137.184.59.234'
+                COMMAND: 'cd /home/runcloud/webapps/millennium;   /RunCloud/Packages/php81rc/bin/php artisan migrate --force'
+                MODE: 'command'
+                PORT: '1816'                 
