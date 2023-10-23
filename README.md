@@ -1,2 +1,2 @@
 # Filament-kanban
-![image](https://github.com/Pedrovictorrr/Filament-kanban/assets/82172897/5ef0e1d1-e11c-4e5e-bbff-48cf6931f31e)
+![image](https://github.com/Pedrovictorrr/Filament-kanban/assets/82172897/fcef0cde-bdd9-49ce-acab-4ae1a5d5f673)
